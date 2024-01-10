@@ -1,8 +1,9 @@
+//This is the main program and entry point. Run with: java WorkoutLog.java.
+
 import java.util.Scanner;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-//this is the main program
 public class WorkoutLog {
   //entry point
   public static void main(String[] args) {
